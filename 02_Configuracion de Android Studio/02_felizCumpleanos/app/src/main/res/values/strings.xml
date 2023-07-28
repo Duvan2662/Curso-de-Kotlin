@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="mensaje_cumpleanos">Feliz cumpleaños Duvan</string>
+    <string name="remitente">Enviado por Leonel messi</string>
+</resources>
